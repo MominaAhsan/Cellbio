@@ -1,0 +1,4 @@
+sample_id,true_label,predicted_label
+GSM4339769_C141_filtered_feature_bc_matrix.h5,mild,severe
+GSM4339773_C145_filtered_feature_bc_matrix.h5,severe,severe
+GSM4475048_C51_filtered_feature_bc_matrix.h5,healthy,healthy
