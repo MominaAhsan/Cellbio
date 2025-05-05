@@ -19,5 +19,6 @@ Please contact the author if you need access to these files for replication purp
 
 1. Clone the repository
 2. Install dependencies (Python, scikit-learn, etc.)
-3. Open `Finalcoding.ipynb` and run the analysis
+3. Open `Finalcoding.ipynb` and run the analysis of mid-term project
+4. Open `FinalProject.ipynb` and run the analysis of final-term project
 
